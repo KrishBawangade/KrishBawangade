@@ -11,7 +11,9 @@
   <br/>
 
   <!-- Dynamic Typing Header / Animated Banner -->
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=23&pause=1200&color=6366F1&center=true&vCenter=true&width=750&lines=Flutter+%26+Dart+Cross-Platform+Architecture;Enterprise+Mobile+Apps+%2B+AI%2FML+Integrations;3%2B+Years+Engineering+Scalable+Mobile+Solutions;Kotlin+%7C+Firebase+%7C+Python+%7C+MERN+Stack" alt="Typing Banner" />
+  <a href="https://krishbawangade.vercel.app">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=23&pause=1200&color=6366F1&center=true&vCenter=true&width=750&lines=Flutter+%26+Dart+Cross-Platform+Architecture;Enterprise+Mobile+Apps+%2B+AI%2FML+Integrations;3%2B+Years+Engineering+Scalable+Mobile+Solutions;Kotlin+%7C+Firebase+%7C+Python+%7C+MERN+Stack" alt="Typing Banner" />
+  </a>
 
 </div>
 
