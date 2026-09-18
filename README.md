@@ -83,23 +83,23 @@ Software Engineer with **3+ years of specialized experience** in mobile applicat
 
 ---
 
-## 📈 Engineering Metrics & Contribution Activity
+## 📈 Engineering Metrics & Contribution Analytics
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=KrishBawangade&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="GitHub Overview Statistics" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KrishBawangade&layout=compact&theme=tokyonight&hide=html,css" alt="Most Used Programming Languages" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=KrishBawangade&theme=tokyonight" alt="GitHub Profile Summary" />
+</div>
+
+<br/>
+
+<div align="center">
+  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=KrishBawangade&theme=tokyonight" alt="Repositories per Language" />
+  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=KrishBawangade&theme=tokyonight" alt="GitHub Stats Overview" />
 </div>
 
 <br/>
 
 <div align="center">
   <img height="165em" src="https://github-readme-streak-stats.herokuapp.com/?user=KrishBawangade&theme=tokyonight" alt="GitHub Continuous Streak" />
-</div>
-
-<br/>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=KrishBawangade&theme=tokyonight&hide_border=true" alt="Contribution Activity Timeline" width="100%" />
 </div>
 
 ---
