@@ -88,20 +88,28 @@ Software Engineer with **3+ years of specialized experience** in mobile applicat
 ## 📈 Engineering Metrics & Contribution Analytics
 
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=KrishBawangade&theme=tokyonight" alt="GitHub Profile Summary" />
+  <a href="https://github.com/KrishBawangade">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=KrishBawangade&theme=tokyonight" alt="GitHub Profile Summary" />
+  </a>
 </div>
 
 <br/>
 
 <div align="center">
-  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=KrishBawangade&theme=tokyonight" alt="Repositories per Language" />
-  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=KrishBawangade&theme=tokyonight" alt="GitHub Stats Overview" />
+  <a href="https://github.com/KrishBawangade">
+    <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=KrishBawangade&theme=tokyonight" alt="Repositories per Language" />
+  </a>
+  <a href="https://github.com/KrishBawangade">
+    <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=KrishBawangade&theme=tokyonight" alt="GitHub Stats Overview" />
+  </a>
 </div>
 
 <br/>
 
 <div align="center">
-  <img height="165em" src="https://github-readme-streak-stats.herokuapp.com/?user=KrishBawangade&theme=tokyonight" alt="GitHub Continuous Streak" />
+  <a href="https://github.com/KrishBawangade">
+    <img height="165em" src="https://github-readme-streak-stats.herokuapp.com/?user=KrishBawangade&theme=tokyonight" alt="GitHub Continuous Streak" />
+  </a>
 </div>
 
 ---
